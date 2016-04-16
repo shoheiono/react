@@ -1,2 +1,2 @@
-# typescript
-typescript samples
+# react
+react samples
